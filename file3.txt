@@ -1,0 +1,8 @@
+Process Name:
+Size Of PCB : 128BYTES : 128Bytes 
+ID Of Process: 
+Priority Of Process: 
+# of Stack Elements : 0
+# of code frames : 1
+# of data frames : 1
+Size Of Process : 78

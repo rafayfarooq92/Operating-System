@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1368198010 source:c:\users\usama\desktop\new\main.cpp
+	<allegro.h>
+	<iostream>
+	<fstream>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<bitset>
+	<cmath>
+	<ctime>
+	<sstream>
+	<cstring>
+	"generalRegisters.h"
+	"memoryClass.h"
+
+1368189064 c:\users\usama\desktop\new\splregisters.h
+	<iostream>
+	<fstream>
+	<bitset>
+	<allegro.h>
+
+1368196405 source:c:\users\usama\desktop\new\memoryclass.cpp
+	"memoryClass.h"
+
+1368198278 c:\users\usama\desktop\new\memoryclass.h
+	<iostream>
+	<fstream>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<bitset>
+	<cmath>
+	<allegro.h>
+	<ctime>
+	<sstream>
+	<cstring>
+	"splRegisters.h"
+	"generalRegisters.h"
+
+1368191410 source:c:\users\usama\desktop\new\splregisters.cpp
+	"splRegisters.h"
+
+1368189497 source:c:\users\usama\desktop\new\generalregisters.cpp
+	"generalRegisters.h"
+
+1368188173 c:\users\usama\desktop\new\generalregisters.h
+	<iostream>
+	<allegro.h>
+	<fstream>
+
+1369818720 source:c:\users\usama\desktop\k112119_k112257\main.cpp
+	<allegro.h>
+	<iostream>
+	<fstream>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<bitset>
+	<cmath>
+	<ctime>
+	<sstream>
+	<cstring>
+	"generalRegisters.h"
+	"memoryClass.h"
+
+1368271318 c:\users\usama\desktop\k112119_k112257\generalregisters.h
+	<iostream>
+	<allegro.h>
+	<fstream>
+
+1369975830 c:\users\usama\desktop\k112119_k112257\memoryclass.h
+	<iostream>
+	<fstream>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<bitset>
+	<cmath>
+	<allegro.h>
+	<ctime>
+	<sstream>
+	<cstring>
+	"splRegisters.h"
+	"generalRegisters.h"
+
+1368272301 c:\users\usama\desktop\k112119_k112257\splregisters.h
+	<iostream>
+	<fstream>
+	<bitset>
+	<allegro.h>
+
+1369967140 source:c:\users\usama\desktop\k112119_k112257\memoryclass.cpp
+	"memoryClass.h"
+
+1369724736 source:c:\users\usama\desktop\k112119_k112257\splregisters.cpp
+	"splRegisters.h"
+
+1369724930 source:c:\users\usama\desktop\k112119_k112257\generalregisters.cpp
+	"generalRegisters.h"
+

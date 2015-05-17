@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="generalRegisters.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1639" topLine="1" />
+	</File>
+	<File name="generalRegisters.h" open="1" top="0" tabpos="4">
+		<Cursor position="1104" topLine="19" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="336" topLine="96" />
+	</File>
+	<File name="memoryClass.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1301" topLine="23" />
+	</File>
+	<File name="memoryClass.h" open="1" top="1" tabpos="5">
+		<Cursor position="21461" topLine="576" />
+	</File>
+	<File name="splRegisters.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1393" topLine="0" />
+	</File>
+	<File name="splRegisters.h" open="1" top="0" tabpos="2">
+		<Cursor position="4977" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
